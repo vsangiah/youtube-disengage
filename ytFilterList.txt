@@ -58,3 +58,4 @@ www.youtube.com##a.yt-lockup-view-model-wiz__content-image
 www.youtube.com##ytd-playlist-thumbnail.ytd-grid-playlist-renderer
 www.youtube.com##ytd-recognition-shelf-renderer
 www.youtube.com##.yt-channel-external-link-view-model-wiz__favicon
+www.youtube.com##div#frosted-glass
